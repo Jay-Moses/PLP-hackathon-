@@ -39,6 +39,18 @@ Majisafi Innovation is an IoT-based water pollution monitoring system that uses 
 2. Run the sensor data collection script to continuously monitor water turbidity.
 3. Use the visualization tools to review and analyze the data collected.
 
+## Usage of codes
+#Start the Flask Server:
+python server.py
+
+# Run the Sensor Data Collection Script:
+python sensor_data_collection.py
+
+## Visualize Data:
+
+# After collecting some data, run:
+python visualize_data.py
+
 ## Contribution
 
 Contributions are welcome! To contribute, please fork the repository, create a new branch for your changes, and submit a pull request.
