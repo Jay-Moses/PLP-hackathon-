@@ -43,12 +43,6 @@ Majisafi Innovation is an IoT-based water pollution monitoring system that uses 
 
 Contributions are welcome! To contribute, please fork the repository, create a new branch for your changes, and submit a pull request.
 
-## Contact
-
-- **Email:** [Your Email]
-- **Phone:** [Your Phone Number]
-- **Website:** [Your Website]
-- **GitHub:** [Your GitHub Repository]
 
 ## License
 
